@@ -1,3 +1,4 @@
+#finding greatest among three number:
 a=int(input("enter a number: "))
 b=int(input("enter a 2nd number: "))
 c=int(input("enter  a 3rd number: "))
